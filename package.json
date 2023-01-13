@@ -12,7 +12,10 @@
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-froala-wysiwyg": "^4.0.16",
+    "react-scripts": "^5.0.1",
+    "suneditor": "^2.44.3",
+    "suneditor-react": "^3.4.1",
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4"
   },
