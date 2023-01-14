@@ -17,6 +17,12 @@ const MyComponent = (props: any) => {
 
     function handleDrop(event: any) {
         console.log("handle drop : ", event);
+        // const canvas = document.createElement('canvas');
+        // let ctx = canvas.getContext("2d");
+        // let img = "https://image2.1004gundam.com/item_images/goods/380/1376376018.jpg"
+        // ctx?.drawImage(img, 0, 0);
+        // MyComponent.insertImage(event.target.files) 
+
     }
 
 
